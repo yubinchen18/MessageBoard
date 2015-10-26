@@ -8,6 +8,7 @@
     <title>Message Board</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <script src='https://www.google.com/recaptcha/api.js'></script>
   </head>
   <body>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
